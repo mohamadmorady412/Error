@@ -1,0 +1,1 @@
+picyure_1 = 'C:\Users\takkaj\Desktop\job\Image_prossing\images\OIL';
